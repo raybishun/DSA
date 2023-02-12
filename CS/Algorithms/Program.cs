@@ -3,11 +3,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(FindMaximum(1, 2, 3));
-        Console.WriteLine(FindMaximum(8, 8, 1));
-        Console.WriteLine(FindMaximum(3, 2, 3));
-        Console.WriteLine(FindMaximum(1, 1, 9));
-        Console.WriteLine(FindMaximum(1, 9, 9));
+        Console.WriteLine(FindMaximumOptimized(1, 2, 3));
+        Console.WriteLine(FindMaximumOptimized(8, 8, 1));
+        Console.WriteLine(FindMaximumOptimized(3, 2, 3));
+        Console.WriteLine(FindMaximumOptimized(1, 1, 9));
+        Console.WriteLine(FindMaximumOptimized(1, 9, 9));
     }
 
     static int FindMaximum(int a, int b, int c)
@@ -29,5 +29,23 @@ class Program
         }
 
         return c;
+    }
+
+    // Optimized algorithim.
+    static int FindMaximumOptimized(int a, int b, int c)
+    {
+        int max = a;
+
+        if(b > max)
+        {
+            max = b;
+        }
+
+        if(c > max)
+        {
+            max = c;
+        }
+
+        return max;
     }
 }
