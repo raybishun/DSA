@@ -1,7 +1,9 @@
 # Notes
-* dotnet new console --framework net6.0 --use-program-main
-* code .
-* dotnet run
+```
+dotnet new console --framework net6.0 --use-program-main
+code .
+dotnet run
+```
 
 ## Big-O
 * Measure an algorithm's efficiency,
