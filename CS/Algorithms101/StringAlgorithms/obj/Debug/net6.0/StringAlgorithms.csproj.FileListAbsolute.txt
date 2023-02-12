@@ -1,0 +1,15 @@
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\bin\Debug\net6.0\StringAlgorithms.exe
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\bin\Debug\net6.0\StringAlgorithms.deps.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\bin\Debug\net6.0\StringAlgorithms.runtimeconfig.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\bin\Debug\net6.0\StringAlgorithms.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\bin\Debug\net6.0\StringAlgorithms.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.csproj.AssemblyReference.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.AssemblyInfoInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.AssemblyInfo.cs
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.csproj.CoreCompileInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\refint\StringAlgorithms.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\StringAlgorithms.genruntimeconfig.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringAlgorithms\obj\Debug\net6.0\ref\StringAlgorithms.dll
