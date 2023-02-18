@@ -1,0 +1,15 @@
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\bin\Debug\net6.0\StringNormalize.exe
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\bin\Debug\net6.0\StringNormalize.deps.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\bin\Debug\net6.0\StringNormalize.runtimeconfig.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\bin\Debug\net6.0\StringNormalize.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\bin\Debug\net6.0\StringNormalize.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.csproj.AssemblyReference.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.AssemblyInfoInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.AssemblyInfo.cs
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.csproj.CoreCompileInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\refint\StringNormalize.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\StringNormalize.genruntimeconfig.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringNormalize\obj\Debug\net6.0\ref\StringNormalize.dll
