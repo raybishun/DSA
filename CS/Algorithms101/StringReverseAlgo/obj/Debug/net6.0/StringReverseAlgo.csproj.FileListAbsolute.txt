@@ -1,0 +1,15 @@
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\bin\Debug\net6.0\StringReverseAlgo.exe
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\bin\Debug\net6.0\StringReverseAlgo.deps.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\bin\Debug\net6.0\StringReverseAlgo.runtimeconfig.json
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\bin\Debug\net6.0\StringReverseAlgo.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\bin\Debug\net6.0\StringReverseAlgo.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.csproj.AssemblyReference.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.AssemblyInfoInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.AssemblyInfo.cs
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.csproj.CoreCompileInputs.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\refint\StringReverseAlgo.dll
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.pdb
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\StringReverseAlgo.genruntimeconfig.cache
+C:\Data\Dropbox\Data\IT\Git_Public\DSA\CS\Algorithms101\StringReverseAlgo\obj\Debug\net6.0\ref\StringReverseAlgo.dll
